@@ -1,6 +1,6 @@
 # todos
 
-<>
+<https://hyel-vue-todo.netlify.app/>
 
 vue.js를 이용한 투두리스트를 만들었습니다.
 
